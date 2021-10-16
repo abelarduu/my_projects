@@ -1,0 +1,4 @@
+you need to have the pyxel module of language python installed on your PC
+Thank you for downloading sz
+
+v.2.0 create in 07/10/2021
